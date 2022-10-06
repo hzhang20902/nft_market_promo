@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <SectionWrapper 
-        title="Your own store of nifty NFTs. 
+        title="Your store of personal NFT masterpieces. 
         Start Selling & Growing"
 
         description="Buy, store, and collect NFTs. Exchange and earn crypto.
@@ -18,9 +18,9 @@ const App = () => {
       />
 
       <SectionWrapper 
-        title="Smart User Interface Marketplace"
+        title="Intelligent NFT Bidding"
 
-        description="Experience the cutting-edge platform of ProNef NFT Marketplace. Smooth, constant colors create a fluent UI design. "
+        description="Experience the cutting-edge platform of ProNef NFT Marketplace. Smooth, fluent UI design create an innovative customer experience."
 
         mockupImg={assets.homeCards}
         reverse
@@ -31,15 +31,15 @@ const App = () => {
       <SectionWrapper 
         title="Deployment"
 
-        description="ProNef is built using Expo, which runs natively on any devices' OS. 
-        You can get your mobile app into people's hands."
+        description="ProNef is built using Expo, which runs natively on any mobile device. 
+        Get your mobile app into people's hands with the ease of Expo."
 
         mockupImg={assets.feature}
         reverse
       />
 
       <SectionWrapper 
-        title="Creative way to showcase the store"
+        title="Intuitive way to showcase a Web 3.0 store"
 
         description="The ProNef Marketplace contains two screens that render multiple asset pages. 
         The home page lists all available NFTs with the current bid price. The individual NFT asset pages showcase the details and bid history of that particular work."

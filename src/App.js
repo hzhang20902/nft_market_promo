@@ -15,6 +15,15 @@ const App = () => {
         mockupImg={assets.homeHero}
         banner="banner"
       />
+
+      <SectionWrapper 
+        title="Smart User Interface Marketplace"
+
+        description="Experience the cutting-edge platform of ProNef NFT Marketplace. Smooth, constant colors create a fluent UI design. "
+
+        mockupImg={assets.homeCards}
+        reverse
+      />
     </>
   );
 }
